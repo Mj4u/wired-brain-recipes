@@ -1,5 +1,8 @@
 pliczek1
 linia 2
-linia 3
+linia 6
 linia 4
+
+i jeszcze tutaj tutaj tutej
+i tutej
 
